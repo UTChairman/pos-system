@@ -20,7 +20,7 @@ It serves as both a rapid-checkout terminal for front-of-house staff and a compr
 
 <div align="center">
   <!-- Place your main POS screenshot here -->
-  <img src="./assets/pos_main.png" alt="POS Main Terminal" width="800"/>
+  <img src="./assets/login.png" alt="POS login" width="800"/>
   <p><i>The intuitive, high-speed cashier terminal with multi-tab support.</i></p>
 </div>
 
