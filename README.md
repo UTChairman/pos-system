@@ -80,7 +80,7 @@ Replaces the need for standalone biometric systems.
 
 <div align="center">
   <!-- Place your dashboard screenshot here -->
-  <img src="./assets/dashboard.png" alt="Owner Dashboard" width="800"/>
+  <img src="./assets/Main admin dynamic dashboard.png" alt="Owner Dashboard" width="800"/>
   <p><i>The Owner's analytical dashboard tracking revenue and staff attendance.</i></p>
 </div>
 
